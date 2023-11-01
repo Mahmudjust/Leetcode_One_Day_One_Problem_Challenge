@@ -22,5 +22,5 @@ The purpose of this repo  is to challenge myself each day. Also here are some ot
 
 # Challenges of November 2023
 
-1.Day 01 Challenge: Find Mode in Binary Search Tree []
+1.Day 01 Challenge: Find Mode in Binary Search Tree [https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_501.py]
 
