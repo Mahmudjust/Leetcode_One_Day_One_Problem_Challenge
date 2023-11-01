@@ -2,5 +2,9 @@
 
 
 November 2023
-Day 01: 501. Find Mode in Binary Search Tree [https://leetcode.com/problems/find-mode-in-binary-search-tree/?envType=daily-question&envId=2023-11-01]
+
+
+
+
+Day 01 Challenge: Find Mode in Binary Search Tree []
 
