@@ -1,10 +1,26 @@
 # Leetcode_One_Day_One_Problem_Challenge
 
 
-November 2023
+# About
+
+This repository is created for cracking November 2023 leetcode problem with the following ideas:
+
+1. Have to crack one problem within one day.
+2. Try to solve it alone without anyones help
+3. Learn new algorithm and data structure if necessary  to crack the problem 
 
 
 
+# Purpose
 
-Day 01 Challenge: Find Mode in Binary Search Tree []
+The purpose of this repo  is to challenge myself each day. Also here are some other things:
+
+1. Inherit a wide angle of solutions to tackle a problem
+3. Build a problem solver attitude
+4. Build confidence to tackle any problem
+5. To track the progress 
+
+# Challenges of November 2023
+
+1.Day 01 Challenge: Find Mode in Binary Search Tree []
 
