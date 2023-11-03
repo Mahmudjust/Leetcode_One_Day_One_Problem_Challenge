@@ -28,3 +28,6 @@ The purpose of this repo  is to challenge myself each day. Also here are some ot
 2.Day 02 Challenge: Count Nodes Equal to Average of Subtree [https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_2265.py]
 
 
+3.Day 03 Challenge: Build an Array With Stack Operations [https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_1441.py]
+
+
