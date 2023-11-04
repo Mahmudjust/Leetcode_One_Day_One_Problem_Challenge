@@ -31,3 +31,6 @@ The purpose of this repo  is to challenge myself each day. Also here are some ot
 3.Day 03 Challenge: Build an Array With Stack Operations [https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_1441.py]
 
 
+4.Day 04 Challenge: Last Moment Before All Ants Fall Out of a Plank [https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_1503.py]
+
+
