@@ -34,3 +34,6 @@ The purpose of this repo  is to challenge myself each day. Also here are some ot
 4.Day 04 Challenge: Last Moment Before All Ants Fall Out of a Plank [https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_1503.py]
 
 
+5.Day 05 Challenge: Find the Winner of an Array Game   [https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_1535.py]
+
+
