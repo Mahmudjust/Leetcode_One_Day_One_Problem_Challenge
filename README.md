@@ -37,3 +37,6 @@ The purpose of this repo  is to challenge myself each day. Also here are some ot
 5.Day 05 Challenge: Find the Winner of an Array Game   [https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_1535.py]
 
 
+6.Day 06 Challenge: Seat Reservation Manager  [https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_1845.py]
+
+
