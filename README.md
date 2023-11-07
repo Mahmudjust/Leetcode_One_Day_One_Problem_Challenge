@@ -40,3 +40,6 @@ The purpose of this repo  is to challenge myself each day. Also here are some ot
 6.Day 06 Challenge: Seat Reservation Manager  [https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_1845.py]
 
 
+7.Day 07 Challenge: Eliminate maximum number of monsters  [https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_1921]
+
+
