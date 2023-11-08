@@ -43,6 +43,6 @@ The purpose of this repo  is to challenge myself each day. Also here are some ot
 7.Day 07 Challenge: Eliminate maximum number of monsters  [https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_1921]
 
 
-8.Day 08 Challenge: Determine if a Cell Is Reachable at a Given Time   []
+8.Day 08 Challenge: Determine if a Cell Is Reachable at a Given Time   [https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_2849.py]
 
 
