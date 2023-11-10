@@ -49,3 +49,6 @@ The purpose of this repo  is to challenge myself each day. Also here are some ot
 9.Day 09 Challenge: Count Number of Homogenous Substrings  [https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_1759.py]
 
 
+10.Day 10 Challenge: Restore the Array From Adjacent Pairs [https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_1743.py]
+
+
