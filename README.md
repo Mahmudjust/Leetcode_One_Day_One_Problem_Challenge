@@ -52,6 +52,7 @@ The purpose of this repo  is to challenge myself each day. Also here are some ot
 10.Day 10 Challenge: Restore the Array From Adjacent Pairs [https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_1743.py]
 
 
-11.Day 11 Challenge: Bus Routes   [https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_815.py]
+11.Day 11 Challenge: Bus Routes  
+[https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_815.py]
 
 
