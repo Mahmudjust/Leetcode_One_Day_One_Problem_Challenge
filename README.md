@@ -56,3 +56,8 @@ The purpose of this repo  is to challenge myself each day. Also here are some ot
 [https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_815.py]
 
 
+12.Day 12 Challenge: Sort Vowels in a String
+[https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_2785.py]
+
+
+
