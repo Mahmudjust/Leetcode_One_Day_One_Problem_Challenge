@@ -62,7 +62,9 @@ The purpose of this repo  is to challenge myself each day. Also here are some ot
 14.Day 14 Challenge: Unique Length-3 Palindromic Subsequences
 [https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_1930.py]
 
-15.Day 15 Challenge: []
+15.Day 15 Challenge: Maximum Element After Decreasing and Rearranging
+
+[https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_1846.py]
 
 
 
