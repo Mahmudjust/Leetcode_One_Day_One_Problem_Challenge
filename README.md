@@ -70,5 +70,13 @@ The purpose of this repo  is to challenge myself each day. Also here are some ot
 
 [https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_1980.py]
 
+17.Day 17 Challenge: Minimize Maximum Pair Sum in Array []
+
+18.Day 18 Challenge: Frequency of the Most Frequent Element[]
+
+19.Day 19 Challenge: Reduction Operations to Make the Array Elements Equal
+
+[https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_1887.py]
+
 
 
