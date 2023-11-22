@@ -86,9 +86,12 @@ The purpose of this repo  is to challenge myself each day. Also here are some ot
 
 [https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_2391.py]
 
-
 21.Day 21 Challenge: Count Nice Pairs in an Array
 
 [https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_1814.py]
+
+22.Day 22 Challenge: Diagonal Traverse II
+[]
+
 
 
