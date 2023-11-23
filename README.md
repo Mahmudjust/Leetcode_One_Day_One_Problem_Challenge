@@ -95,4 +95,10 @@ The purpose of this repo  is to challenge myself each day. Also here are some ot
 [https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_1424.py]
 
 
+23.Day 23 Challenge: Arithmetic Subarrays
+
+
+[https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_1630.py]
+
+
 
