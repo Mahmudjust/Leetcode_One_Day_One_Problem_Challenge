@@ -100,5 +100,10 @@ The purpose of this repo  is to challenge myself each day. Also here are some ot
 
 [https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_1630.py]
 
+24.Day 24 Challenge: Maximum Number of Coins You Can Get
+
+
+[https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_1561.py]
+
 
 
