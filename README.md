@@ -109,5 +109,9 @@ The purpose of this repo  is to challenge myself each day. Also here are some ot
 
 [https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_1685.py]
 
+26.Day 26 Challenge: Largest Submatrix With Rearrangements
+
+[https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_1727.py]
+
 
 
