@@ -96,24 +96,28 @@ The purpose of this repo  is to challenge myself each day. Also here are some ot
 [https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_1424.py]
 
 
-23.Day 23 Challenge: Arithmetic Subarrays
+23.Day 23 Challenge: Arithmetic Subarrays [1630]
 
 
 [https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_1630.py]
 
-24.Day 24 Challenge: Maximum Number of Coins You Can Get
+24.Day 24 Challenge: Maximum Number of Coins You Can Get [1561]
 
 
 [https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_1561.py]
 
-25.Day 25 Challenge: Sum of Absolute Differences in a Sorted Array
+25.Day 25 Challenge: Sum of Absolute Differences in a Sorted Array [1685]
 
 [https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_1685.py]
 
-26.Day 26 Challenge: Largest Submatrix With Rearrangements
+26.Day 26 Challenge: Largest Submatrix With Rearrangements [1727]
 
 [https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_1727.py]
 
-27.Day 27 Challenge: Knight Dialer 
+27.Day 27 Challenge: Knight Dialer [935]
 
 [https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_935.py]
+
+28.Day 28 Challenge:Number of Ways to Divide a Long Corridor [2147]
+
+[https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_2147.py]
