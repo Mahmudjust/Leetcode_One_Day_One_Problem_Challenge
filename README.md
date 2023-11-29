@@ -121,3 +121,7 @@ The purpose of this repo  is to challenge myself each day. Also here are some ot
 28.Day 28 Challenge:Number of Ways to Divide a Long Corridor [2147]
 
 [https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_2147.py]
+
+29.Day 29 Challenge:191. Number of 1 Bits
+
+[https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_0191.py]
