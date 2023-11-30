@@ -125,3 +125,7 @@ The purpose of this repo  is to challenge myself each day. Also here are some ot
 29.Day 29 Challenge:191. Number of 1 Bits
 
 [https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_0191.py]
+
+30.Day 30 Challenge:1611. Minimum One Bit Operations to Make Integers Zero
+
+[https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_1611.py]
