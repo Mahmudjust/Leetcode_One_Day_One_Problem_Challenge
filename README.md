@@ -129,3 +129,7 @@ The purpose of this repo  is to challenge myself each day. Also here are some ot
 30.Day 30 Challenge:1611. Minimum One Bit Operations to Make Integers Zero
 
 [https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_1611.py]
+
+31.Day 31 Challenge: 1662. Check If Two String Arrays are Equivalent
+
+[https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_1662.py]
