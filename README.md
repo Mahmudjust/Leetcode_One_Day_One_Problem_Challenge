@@ -133,3 +133,8 @@ The purpose of this repo  is to challenge myself each day. Also here are some ot
 31.Day 31 Challenge: 1662. Check If Two String Arrays are Equivalent
 
 [https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_1662.py]
+
+32.Day 32 Challenge: 1160. Find Words That Can Be Formed by Characters
+
+[https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_1160.py]
+
