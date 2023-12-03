@@ -138,3 +138,8 @@ The purpose of this repo  is to challenge myself each day. Also here are some ot
 
 [https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_1160.py]
 
+33.Day 33 Challenge: 1266. Minimum Time Visiting All Points
+
+[https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_1266.py]
+
+
