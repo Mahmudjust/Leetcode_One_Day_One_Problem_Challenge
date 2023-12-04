@@ -142,4 +142,11 @@ The purpose of this repo  is to challenge myself each day. Also here are some ot
 
 [https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_1266.py]
 
+34.Day 34 Challenge: 2264.Largest 3-Same-Digit Number in String
+
+
+[https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_2264.py]
+
+
+
 
