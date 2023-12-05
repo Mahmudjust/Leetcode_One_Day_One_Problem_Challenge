@@ -148,5 +148,9 @@ The purpose of this repo  is to challenge myself each day. Also here are some ot
 [https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_2264.py]
 
 
+35.Day 35 Challenge: 1688. Count of Matches in Tournament
+
+[https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_1688.py]
+
 
 
