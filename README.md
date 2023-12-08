@@ -152,5 +152,7 @@ The purpose of this repo  is to challenge myself each day. Also here are some ot
 
 [https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_1688.py]
 
+38.Day 38 Challenge: 606. Construct String from Binary Tree
 
+ [https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_0606.py]
 
