@@ -152,7 +152,15 @@ The purpose of this repo  is to challenge myself each day. Also here are some ot
 
 [https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_1688.py]
 
+36.Day 36 Challenge: 1716. Calculate Money in Leetcode Bank 
+
+[https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_1716.py]
+
+37.Day 37 Challenge:1903. Largest Odd Number in String
+
+[https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_1903.py]
+
 38.Day 38 Challenge: 606. Construct String from Binary Tree
 
- [https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_0606.py]
+[https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_0606.py]
 
