@@ -168,5 +168,9 @@ The purpose of this repo  is to challenge myself each day. Also here are some ot
 
 [https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_0094.py]
 
+40.Day 40 Challenge: 867. Transpose Matrix
+
+[https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_0867.py]
+
 
 
