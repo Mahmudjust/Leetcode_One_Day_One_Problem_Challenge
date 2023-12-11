@@ -172,5 +172,8 @@ The purpose of this repo  is to challenge myself each day. Also here are some ot
 
 [https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_0867.py]
 
+41.Day 41 Challenge: 1287. Element Appearing More Than 25% In Sorted Array
+
+[https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_1287.py]
 
 
