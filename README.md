@@ -178,4 +178,6 @@ The purpose of this repo  is to challenge myself each day. Also here are some ot
 
 [https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_1287.py]
 
+42.Day 42 Challenge:1464. Maximum Product of Two Elements in an Array
 
+[https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_1464.py]
