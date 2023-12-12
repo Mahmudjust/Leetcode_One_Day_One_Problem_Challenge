@@ -130,6 +130,8 @@ The purpose of this repo  is to challenge myself each day. Also here are some ot
 
 [https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_1611.py]
 
+# Challenges of December 2023
+
 31.Day 31 Challenge: 1662. Check If Two String Arrays are Equivalent
 
 [https://github.com/Mahmudjust/Leetcode_One_Day_One_Problem_Challenge/blob/main/leetcode_1662.py]
